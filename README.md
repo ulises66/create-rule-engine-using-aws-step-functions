@@ -1,2 +1,6 @@
-# create-rule-engine-using-aws-step-functions
-Create a Rule Engine using AWS Step Functions
+# Create a Rule Engine using AWS Step Functions
+
+## Requirements
+
+- Serverless Framework [Documentation](https://www.serverless.com/framework/docs/getting-started/)
+
